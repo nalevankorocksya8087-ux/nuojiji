@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783499038813,
+  "timestamp": 1783499045747,
   "appVersion": "6.9.2 (2026.06.22)",
   "tables": [
     "characters",
@@ -110,7 +110,9 @@
     "thinkingStore": true,
     "commitments": true,
     "characterLifeState": true,
-    "healthEntries": true
+    "healthEntries": true,
+    "healthProfile": true,
+    "homelandState": true
   },
   "inProgress": true
 }
