@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783499061693,
+  "timestamp": 1783499066719,
   "appVersion": "6.9.2 (2026.06.22)",
   "tables": [
     "characters",
@@ -108,7 +108,8 @@
     "wallpapers": true,
     "whiteDogData": true,
     "isekaiSaves": true,
-    "pomodoroData": true
+    "pomodoroData": true,
+    "regexRules": true
   },
   "inProgress": true
 }
