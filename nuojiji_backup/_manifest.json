@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783497848028,
+  "timestamp": 1783497854356,
   "appVersion": "6.9.2 (2026.06.22)",
   "tables": [
     "characters",
@@ -91,7 +91,9 @@
     "customNoises": true,
     "customBgm": true,
     "flashMoments": true,
-    "groupSettings": true
+    "groupSettings": true,
+    "userLinks": true,
+    "userMessages": true
   },
   "inProgress": true
 }
