@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783497691036,
+  "timestamp": 1783497722261,
   "appVersion": "6.9.2 (2026.06.22)",
   "tables": [
     "characters",
@@ -64,13 +64,5 @@
     "fontStore",
     "_migration"
   ],
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "stickers": true,
-    "kaomojis": true,
-    "users": true,
-    "userState": true
-  },
   "inProgress": true
 }
