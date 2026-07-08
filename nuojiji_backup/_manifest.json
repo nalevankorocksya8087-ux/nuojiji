@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783498976254,
+  "timestamp": 1783498977268,
   "appVersion": "6.9.2 (2026.06.22)",
   "tables": [
     "characters",
@@ -65,8 +65,7 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 2,
-    "roleStickers": 2
+    "messages": 2
   },
   "completedTables": {
     "characters": true,
@@ -82,10 +81,21 @@
     "callLogs": true,
     "tmSessions": true,
     "tmStories": true,
-    "multiSceneSessions": true,
     "multiSceneStories": true,
     "multiSceneCastSettings": true,
-    "multiSceneSessionSettings": true
+    "multiSceneSessionSettings": true,
+    "multiSceneSessionSummaries": true,
+    "customNoises": true,
+    "customBgm": true,
+    "flashMoments": true,
+    "groupSettings": true,
+    "userMessages": true,
+    "ttsAudio": true,
+    "forumData": true,
+    "calendarData": true,
+    "xinsheng": true,
+    "pomodoroSessions": true,
+    "couplesData": true
   },
   "inProgress": true
 }
