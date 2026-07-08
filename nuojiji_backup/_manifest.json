@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783499048920,
+  "timestamp": 1783499052632,
   "appVersion": "6.9.2 (2026.06.22)",
   "tables": [
     "characters",
@@ -65,8 +65,7 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 2,
-    "roleStickers": 2
+    "messages": 2
   },
   "completedTables": {
     "characters": true,
@@ -82,29 +81,40 @@
     "callLogs": true,
     "tmSessions": true,
     "tmStories": true,
-    "multiSceneSessions": true,
     "multiSceneStories": true,
     "multiSceneCastSettings": true,
     "multiSceneSessionSettings": true,
     "multiSceneSessionSummaries": true,
     "customNoises": true,
+    "customBgm": true,
     "flashMoments": true,
     "groupSettings": true,
-    "userLinks": true,
+    "userMessages": true,
     "ttsAudio": true,
     "forumData": true,
     "calendarData": true,
-    "groupChats": true,
+    "xinsheng": true,
     "pomodoroSessions": true,
     "couplesData": true,
     "imageStore": true,
     "stickerStore": true,
     "quickReplies": true,
-    "goingOutState": true,
-    "goingOutAreas": true,
     "mapRasterCache": true,
     "customGames": true,
-    "customWidgetState": true
+    "customWidgetTemplates": true,
+    "customWidgetState": true,
+    "wallpapers": true,
+    "whiteDogData": true,
+    "isekaiSaves": true,
+    "regexRules": true,
+    "thinkingStore": true,
+    "commitments": true,
+    "characterLifeState": true,
+    "healthEntries": true,
+    "healthProfile": true,
+    "homelandState": true,
+    "fontStore": true,
+    "_migration": true
   },
   "inProgress": true
 }
