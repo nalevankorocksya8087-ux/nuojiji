@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783498261256,
+  "timestamp": 1783498268921,
   "appVersion": "6.9.2 (2026.06.22)",
   "tables": [
     "characters",
@@ -64,5 +64,8 @@
     "fontStore",
     "_migration"
   ],
+  "completedTables": {
+    "characters": true
+  },
   "inProgress": true
 }
